@@ -19,13 +19,12 @@ Durante uma entrevista técnica de estágio, foram apresentadas as seguintes que
    - **Explicação da Resolução**: O programa itera sobre a string de trás para frente e constrói uma nova string invertida.
 
 ## Estrutura do Repositório
--questoes
+- `questoes`
     - `questao1.js`: Solução para o exercício 1.
     - `questao2.js`: Solução para o exercício 2.
     - `questao3.js`: Solução para o exercício 3.
     - `questao4.js`: Solução para o exercício 4.
-
-- `readme.md`: Este arquivo com informações sobre o repositório.
+- `README.md`: Este arquivo com informações sobre o repositório.
 
 ## Tecnologia Utilizada
 
