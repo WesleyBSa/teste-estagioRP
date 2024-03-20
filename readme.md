@@ -34,7 +34,7 @@ Durante uma entrevista técnica de estágio, foram apresentadas as seguintes que
     - `questao2.js`: Solução para o exercício 2.
     - `questao3.js`: Solução para o exercício 3.
     - `questao4.js`: Solução para o exercício 4.
-    - `questao5.js`: Solução para o exercício 4.
+    - `questao5.js`: Solução para o exercício 5.
 - `README.md`: Este arquivo com informações sobre o repositório.
 
 ## Tecnologia Utilizada
